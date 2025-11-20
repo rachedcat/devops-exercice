@@ -38,6 +38,7 @@
     <!-- Propriétés spécifiques au projet, ici la version de Java utilisée -->
     <properties>
         <sonar.organization>rachedcat</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
     <!-- Dépendances nécessaires pour le projet -->
